@@ -1,7 +1,4 @@
-github profile markdown generator logo
-GitHub Profile README Generator
-Star this repo20754
-Fork on GitHub6397
+
 <h1 align="center">Hi 👋, I'm Bahavudheen Thaha</h1>
 <h3 align="center">A passionate computer science enthusiast from India</h3>
 
